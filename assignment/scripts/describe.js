@@ -182,7 +182,7 @@ console.log(enter)
 // if(age >= minAge) {
   console.log('enter');
 } else {
-  console.log('no entery');
+  console.log('no entry');
 }
 
 */
