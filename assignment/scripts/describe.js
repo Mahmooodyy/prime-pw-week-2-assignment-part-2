@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a variable called name and set it to 'Dane'
+// Then we have an if else statement checking if var name is 'Mary' if it is it logs 'Hi Mary!'
+// if var name is not 'Mary' then it logs 'How do you do?'
+//console.log('how do you do?)
 
 //CODE
 /*
