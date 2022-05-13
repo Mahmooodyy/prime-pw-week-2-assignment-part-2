@@ -141,7 +141,7 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
-// FIX if we want to stay true and have both colorOne and colorTwo = purple you need to add the change to both variables
+// FIX - if we want to stay true and have both colorOne and colorTwo = purple you need to add the change to both variables
 // if (mix === true) {
   colorOne = 'purple'  
   colorTwo = 'purple';
@@ -158,7 +158,7 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
-// FIX replace the || with && because in the descr
+// FIX - replace the || with && because in the description it says We check if temp is higher than 39 AND if time is greater or equal to  4 
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
