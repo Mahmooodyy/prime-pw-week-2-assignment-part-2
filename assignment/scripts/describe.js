@@ -135,10 +135,16 @@ if (number >= 2) {
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
+// FIX - if we are staying true to what the description says then red and blue need to be flip flopped
+// let colorOne = 'blue';       let colorTwo = 'red';
 
 if (mix === true) {
   colorOne = 'purple';
 }
+// FIX if we want to stay true and have both colorOne and colorTwo = purple you need to add the change to both variables
+// if (mix === true) {
+  colorOne = 'purple'  
+  colorTwo = 'purple';
 */
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
@@ -152,6 +158,7 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+// FIX replace the || with && because in the descr
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
