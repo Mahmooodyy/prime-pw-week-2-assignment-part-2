@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We made a variable secret and a variable code that is 123
+// We have an if statement saying if code === 123 then secret = 'super' and multiply code by 2 --- code is now 246
+// We have an if statement saying if code > 250 then secret = 'duper' code is not > 250
+//console.log(secret) 'super'
 
 //CODE
 /*
