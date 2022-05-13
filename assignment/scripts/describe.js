@@ -70,10 +70,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We have variable isStudent = true age =34 and zip = 55407
+// We have an if, else if statement saying if isStudent === true and zip > 80000 log 'youre a student on the west coast'
+// this isnt true so we move to the next one which says if isStudent === false we can already stop here because isStudent is true
+//finally the last one says if isStudent === true log 'Welcome to Prime!' this one is true so it is the one that is logged
+//we did not get to last resort "how about the weather"
+
 
 //CODE
 /*
