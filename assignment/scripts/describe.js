@@ -175,7 +175,7 @@ if(minAge <= age) {
   console.log('enter');
 }
 // FIX - we are checking if age is greater than or equal to minAge so we need to switch these two and switch to a greater than sign
-// THE ABOVE IS NOT NECESSARY BUT IF IT WAS ME I WOULD SWITCH IT BECAUSE IT CLICKS BETTER IN MY BRAIN
+// THE ABOVE FIX IS NOT NECESSARY BUT IF IT WAS ME I WOULD SWITCH IT BECAUSE IT CLICKS BETTER IN MY BRAIN
 // if(age >= minAge) 
 // FIX - we need to flip flop the string for 'no entry' and 'enter' when we check if age >= minAge so that if >= minAge
 console.log(enter)

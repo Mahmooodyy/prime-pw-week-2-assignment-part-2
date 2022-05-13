@@ -1,10 +1,8 @@
-let colorOne = 'blue';
-let colorTwo = 'red';
-let mix = true;
+let age = 21;
+const minAge = 21;
 
-if (mix === true) {
-  colorOne = 'purple'  
-  colorTwo = 'purple';
-}
-console.log(colorTwo);
-console.log(colorOne);
+if(age >= minAge) {
+    console.log('enter');
+  } else {
+    console.log('no entry');
+  }
